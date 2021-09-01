@@ -11,10 +11,6 @@ who involved in
 
 > [github](https://github.com/waynezhang)
 
-and made
-
-> [Osara](https://osara.lhzhang.com)
-
 mail 
 
 > echo srvpqxfbyqfvpdtkbjwt \| tr yxwvtsrqpkjfdb zuonmlihgeca@.

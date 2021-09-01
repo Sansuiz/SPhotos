@@ -130,6 +130,7 @@ header {
 ul.listing {
   margin-top: 1em; }
   ul.listing li {
+    list-style-type: none;
     padding: 0; }
     ul.listing li.listing-item a, ul.listing li.listing-item header #header h1 a, header #header h1 ul.listing li.listing-item a {
       padding: .2em 0 .2em 2em; }
@@ -233,7 +234,7 @@ footer {
 .like-wrapper {
   color: #999; }
   .like-wrapper .like-button, .like-wrapper .unlike-button {
-    font-family: "Font Awesome 5 Free";
+    font-family: "FontAwesome";
     padding-right: 5px; }
   .like-wrapper .like-button:hover {
     color: #dd1144; }
