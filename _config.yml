@@ -2,7 +2,8 @@ name: "SANSUI'S IMG"
 permalink: /:year/:month/:day/:title.html
 
 author: "wayne"
-baseurl: "https://sansuiz.github.io/SPhotos"
+baseurl: "/SPhotos"
+url: "https://sansuiz.github.io"
 disqus: "gopherwood"
 
 navigations:
