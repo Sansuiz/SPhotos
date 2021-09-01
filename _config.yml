@@ -2,7 +2,7 @@ name: "SANSUI'S IMG"
 permalink: /:year/:month/:day/:title.html
 
 author: "wayne"
-atom-baseurl: "https://sansuiz.github.io/SPhotos"
+baseurl: "https://sansuiz.github.io/SPhotos"
 disqus: "gopherwood"
 
 navigations:

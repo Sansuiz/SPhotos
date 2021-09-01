@@ -26,7 +26,7 @@ layout: default
       like-shortname  = '{{ site.disqus }}'
       like-identifier = '{{ post.guid }}'
       like-name       = '{{ post.title }}'
-      like-link       = '{{ site.atom-baseurl }}{{ page.url }}'
+      like-link       = '{{ site.baseurl }}{{ page.url }}'
       like-btn        = '&#xf164;'
     ></span>
     <script type="text/javascript">
